@@ -3,4 +3,4 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [JavaScript](./solutions/twoSum.js)|Easy|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [JavaScript](./solutions/towSum.js)|Easy|
