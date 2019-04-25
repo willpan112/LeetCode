@@ -4,4 +4,4 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [JavaScript](./solutions/towSum.js)|Easy|
-|2|[Add Two Numbers](https://oj.leetcode.com/problems/add-tow-numbers/)| [JavaScript](./solutions/addTwoNumbrs.js)|Medium|
+|2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [JavaScript](./solutions/addTwoNumbers.js)|Medium|
